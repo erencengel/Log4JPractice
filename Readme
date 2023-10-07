@@ -1,0 +1,3 @@
+A basic framework for Log4j2 practice.
+Cucumber-Selenium.
+This framework has capable of to log all the info in to 2 different places: console and a separate file (logs/automation-app.log).
